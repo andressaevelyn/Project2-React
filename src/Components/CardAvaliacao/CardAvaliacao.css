@@ -1,0 +1,16 @@
+#card {
+    width: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 2px solid black;
+}
+
+#LivroAvaliado {
+    display: flex;
+    flex-direction: column;
+}
+
+#resenha {
+padding: 10px;
+}

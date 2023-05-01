@@ -1,0 +1,15 @@
+#LivroAvaliado {
+    display: flex;
+    flex-direction: column;
+}
+
+#iconLivro {
+    font-size: 20px;
+    color: rgba(197, 89, 12, 0.869);
+}
+
+#row-column {
+    display: flex;
+    justify-content: space-between;
+
+}

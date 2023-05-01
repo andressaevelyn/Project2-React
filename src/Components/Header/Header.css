@@ -1,0 +1,33 @@
+header {
+width: 650px;
+text-align: center;
+display:flex;
+justify-content: space-between;
+}
+
+h1 {
+    margin: 0;
+    color: #AC0000;
+}
+
+#black {
+    color: #000000;
+}
+
+#perfil {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#qtdLidos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+}
+
+#qtdALer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
